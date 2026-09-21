@@ -1,0 +1,14 @@
+tts-playlist-app/
+├── package.json
+├── index.html
+├── vite.config.js
+└── src/
+    ├── main.jsx
+    ├── App.jsx
+    ├── index.css
+    ├── hooks/
+    │   └── useSpeechSynthesis.js
+    └── components/
+        ├── LanguageVoiceSelector.jsx
+        ├── PlayerControls.jsx
+        └── PlaylistManager.jsx
