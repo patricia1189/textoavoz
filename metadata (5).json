@@ -1,0 +1,6 @@
+{
+  "name": "Texto a Voz",
+  "description": "Sintetizador de texto a voz en el navegador utilizando la Web Speech API, con historial local en localStorage y captura de audio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
